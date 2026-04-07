@@ -3,7 +3,7 @@ class Telefono{
     private Integer bateria;
     protected String camara;
 
-    public String vender () {
+    public void vender () {
     }
     private void reproducirVideo () {
     }
