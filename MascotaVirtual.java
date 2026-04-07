@@ -3,10 +3,10 @@
         private Integer nombre;
         public String  misiones;
 
-        public String comer () {
+        public String comer() {
                 
         }
-        public String jugar () {
+        public String jugar() {
 
         }
         
