@@ -1,4 +1,4 @@
-    Class MascotaVirtual{
+    class MascotaVirtual{
         public String color;
         private Integer nombre;
         public String  misiones;
